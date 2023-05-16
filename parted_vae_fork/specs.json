@@ -1,0 +1,10 @@
+{
+        "z_capacity": [0.0, 30.0, 300000, 50.0],
+        "u_capacity": [0.0, 5.0, 300000, 50.0],
+        "latent_spec": {"z": 5, "c": [3], "single_u": 1},
+        "epochs": 40,
+        "lr_warm_up": 0.000500,
+        "lr_model": 0.000500,
+        "dataset": "dsprites",
+        "recon_type": "bce"
+        }

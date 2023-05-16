@@ -1,0 +1,22 @@
+
+Time: 0h 0m 5.10s
+
+ARGS:
+batch_size: 64
+gpu: 3
+max_predict_epochs: 2
+name_suffix: 
+no_progress_bar: False
+overwrite: True
+reload_from: none
+short_test: False
+test: True
+vae: betaH
+verbose: False
+no_pvae_supervision: False
+zs_combo: (2, 4)
+zs_combo_vals: (0, 0)
+dataset: dsprites
+epochs: 2
+normal_testset_number: 0
+test_level: 0
